@@ -1,2 +1,2 @@
-# Big_Data_Session1-Assignmet1
-Big_Data_Session1/Assignmet1 Description
+# Big_Data_Session1-Assignment1
+Big_Data_Session1/Assignment1 Description
